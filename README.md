@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adrian, a hobbyist Web Dev, primarily using TypeScript, and playing with React. I'm also highly active on Discord and maintain a Discord Bot (also written in TypeScript) for a verified server.
+I'm Adrian, a hobbyist Web Dev, primarily using TypeScript, and playing with React. I'm also highly active on Discord and maintain a Discord Bot (also written in TypeScript) for a verified Discord server.
 
 You can find many of my current projects on [my University's GitLab](https://git.noc.ruhr-uni-bochum.de/paschaxj), where I code a lot of stuff for fellow students of the Applied Computer Science major. My tasks of being a student representative include managing the server we use to run all of the services we provide for our students, such as our [blog](https://blog.ai-rub.de/) (in German).
 
