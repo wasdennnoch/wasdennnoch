@@ -14,5 +14,5 @@ Some of my open-source projects include:
 - [Administr\[AI\]tor](https://gitlab.ruhr-uni-bochum.de/fs-ai/fsr/src/administraitor), a little TypeScript Discord bot for the Discord server run by and for students of the faculty.
 - The frontend of [PollTool](https://gitlab.ruhr-uni-bochum.de/fs-ai/fsr/src/polltool/polltool-v2/-/tree/master/frontend/polltool), a simple polling site where users can dynamically add items to vote on (Warning: My first ever React project, expect very bad code).
 - Outside of all the aforementioned student council projects there is:
-  - [cafe](https://github.com/beemobot/cafe), the open-source part of Beemo, an antiabuse bot for [Discord](https://discord.com/).
+  - [cafe](https://github.com/beemobot/cafe), the open-source part of [Beemo](https://beemo.gg/), an antiabuse bot for [Discord](https://discord.com/).
   - ✨ I am really proud of my contributions to the core parts of Beemo (written in Kotlin), but unfortunately, they are closed-source due to the sensitive nature of antiabuse handling. So far, I have contributed more than `50,000` changes in over `179` pull requests!
