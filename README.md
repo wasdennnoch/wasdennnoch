@@ -18,7 +18,7 @@ Some of my open-source projects include:
   - ✨ I am really proud of my contributions to the core parts of Beemo (written in Kotlin), but unfortunately, they are closed-source due to the sensitive nature of antiabuse handling. So far, I have contributed more than `50,000` changes in over `179` pull requests!
 
 Some of the tech I've worked with includes:
-- **Languages**: Kotlin, Typescript, JavaScript, Java, Python
+- **Languages**: Kotlin, Typescript/JavaScript, HTML/CSS, Java, Python, C#, C/C++
 - **Databases**: PostgreSQL, MariaDB, MongoDB, Redis, Elasticsearch
 - **Frameworks**: React, Svelte, Next.js, NestJS, Tailwind CSS, Jakarta EE
 - **Webservers**: Nginx, Apache, Traefik, Express, Koa, Fastify
