@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adrian, a hobbyist Web Dev primarily using TypeScript and an avid user of React. I'm also highly active on Discord and maintain multiple Discord Bots such as [Beemo](https://beemo.gg/) using Kotlin and TypeScript.
+I'm Adrian, a full-stack developer from Germany primarily writing TypeScript and Kotlin and an avid user of React. I'm also highly active on Discord and maintain multiple Discord Bots such as [Beemo](https://beemo.gg/) using Kotlin and TypeScript.
 
 You can find many of my current projects on [my University's GitLab](https://gitlab.ruhr-uni-bochum.de/__), where I code a lot of stuff for fellow students of the Applied Computer Science major. My tasks of being part of the student council include managing the server we use to run all of the services we provide for our students, as well as developing custom tools useful to us and other students.
 
@@ -16,3 +16,14 @@ Some of my open-source projects include:
 - Outside of all the aforementioned student council projects there is:
   - [cafe](https://github.com/beemobot/cafe), the open-source part of [Beemo](https://beemo.gg/), an antiabuse bot for [Discord](https://discord.com/).
   - ✨ I am really proud of my contributions to the core parts of Beemo (written in Kotlin), but unfortunately, they are closed-source due to the sensitive nature of antiabuse handling. So far, I have contributed more than `50,000` changes in over `179` pull requests!
+
+Some of the tech I've worked with includes:
+- **Languages**: Kotlin, Typescript, JavaScript, Java, Python
+- **Databases**: PostgreSQL, MariaDB, MongoDB, Redis, Elasticsearch
+- **Frameworks**: React, Svelte, Next.js, NestJS, Tailwind CSS, Jakarta EE
+- **Webservers**: Nginx, Apache, Traefik, Express, Koa, Fastify
+- **Deployment**: Docker, Ansible, Github Runners, Cloudflare Workers/Pages/Tunnels
+- **Insights**: Sentry, Prometheus, Grafana, Kibana
+- **Virtualization**: Proxmox, LXC
+- **Machine Learning**: TensorFlow, Keras, PyTorch
+- **Message Brokers**: Kafka, Redpanda, RabbitMQ
