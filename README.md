@@ -21,7 +21,7 @@ Some of the tech I've worked with includes:
 - **Languages**: Kotlin, Typescript/JavaScript, HTML/CSS, Java, Python, C#, C/C++
 - **Databases**: PostgreSQL, MariaDB, MongoDB, Redis, Elasticsearch
 - **Frameworks**: React, Svelte, Next.js, NestJS, Tailwind CSS, Jakarta EE
-- **Webservers**: Nginx, Apache, Traefik, Express, Koa, Fastify
+- **Webservers**: Node.js, Nginx, Apache, Traefik, Express, Koa, Fastify
 - **Deployment**: Docker, Ansible, Github Runners, Cloudflare Workers/Pages/Tunnels
 - **Insights**: Sentry, Prometheus, Grafana, Kibana
 - **Virtualization**: Proxmox, LXC
